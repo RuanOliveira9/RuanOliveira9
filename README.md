@@ -4,7 +4,7 @@
 ---
 
 ## Sobre Mim
-Olá! Sou estudante do **Ensino Técnico em Informática**. Sou apaixonado por tecnologia, resolução de problemas e desenvolvimento de soluções eficientes. Tenho forte interesse na área de **Desenvolvimento de Software**, **Infraestrutura de TI** e **Banco de Dados**, buscando constantemente aprimorar minhas habilidades lógicas e práticas através de projetos acadêmicos e pessoais.
+Olá! Sou estudante do **Ensino Técnico em Informática**. Sou apaixonado por tecnologia, resolução de problemas e desenvolvimento de soluções eficientes. Tenho forte interesse na área de **Desenvolvimento de Software**, **Infraestrutura de TI** e **Desenvolvimento de jogos**, buscando constantemente aprimorar minhas habilidades lógicas e práticas através de projetos acadêmicos e pessoais.
 
 ---
 
